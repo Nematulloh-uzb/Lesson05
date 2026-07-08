@@ -1,4 +1,4 @@
-import {configureStore} from '@reduxjs/toolkit';
+import { configureStore } from '@reduxjs/toolkit';
 import counterReducer from './Features/CounterSlice';
 import usersReducer from "./Features/usersSlice";
 
